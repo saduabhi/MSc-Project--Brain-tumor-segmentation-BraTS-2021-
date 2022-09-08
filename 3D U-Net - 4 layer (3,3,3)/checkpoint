@@ -1,0 +1,2 @@
+model_checkpoint_path: "3D-UNet-2021model_.93-0.013896.m5"
+all_model_checkpoint_paths: "3D-UNet-2021model_.93-0.013896.m5"
